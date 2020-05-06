@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.gavln.com</id>
     <title>Gavin notes</title>
-    <updated>2020-05-06T14:17:26.655Z</updated>
+    <updated>2020-05-06T14:29:51.319Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.gavln.com"/>
     <link rel="self" href="https://blog.gavln.com/atom.xml"/>
@@ -75,7 +75,7 @@
 <a href="https://grapheneos.org/">GrapheneOS</a><br>
 <a href="https://www.lineageos.org/">LineageOS</a><br>
 Android &amp; iOS都不是完全开源的。iOS没什么好说的，其实Android也不是完全开源的，只有开源AOSP（Android Open Source Project），而 GMS（Google Mobile Services）是闭源的。而Android慢慢占领市场份额后，Google逐渐把AOSP中的模块转移到GMS中，两者的关系有点类似Chromium和Chrome。</p>
-<p>Reference：<br>
+<p>References：<br>
 https://www.privacytools.io/</p>
 ]]></content>
     </entry>
