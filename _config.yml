@@ -1,0 +1,17 @@
+# Site settings
+title: Gavin's Notes
+description: >
+
+author: Gavin Xu
+email: gvinaxu@gmail.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://gvinaxu.github.io" # the base hostname & protocol for your site
+twitter_username: hybrid_alex
+github_username:  alexcarpenter
+
+# Build settings
+include: [_pages]
+markdown: kramdown
+permalink: /:title
+sass:
+    style: compressed
